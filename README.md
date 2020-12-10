@@ -1,2 +1,2 @@
-# sql_co_ban.gioi_thieu_sql
+# basic-postgresql
 Giới thiệu về SQL và RDBMS
